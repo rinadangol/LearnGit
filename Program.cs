@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Hello, Rina!");
+Console.WriteLine("Hello, C# Academy!");
