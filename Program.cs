@@ -5,3 +5,8 @@ myMsg("have a nice day");
 {
     Console.WriteLine(msg);
 }
+
+void myMsg1(string msg)
+{
+    Console.WriteLine(msg);
+}
