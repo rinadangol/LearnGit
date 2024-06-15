@@ -1,12 +1,17 @@
 ﻿
 Console.WriteLine("Hello, C# Academy!");
-myMsg("have a nice day");
- void myMsg(string msg)
+myMsg1("have a nice day");
+
+void myMsg1(string msg)
+{
+    Console.WriteLine(msg);
+}
+void myMsg2(string msg)
 {
     Console.WriteLine(msg);
 }
 
-void myMsg1(string msg)
+void myMsg3(string msg)
 {
     Console.WriteLine(msg);
 }
