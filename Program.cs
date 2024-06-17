@@ -10,4 +10,5 @@ myMsg("have a nice day");
 void myMsg1(string msg)
 {
     Console.WriteLine(msg);
+  Console.WriteLine("Done");
 }
